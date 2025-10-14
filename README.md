@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on Educational app for my degree project
 <br>
-🌱 I’m currently learning Java and C# for Unity projects
+🌱 I’m currently learning Java Programming & C# for Unity Engine usage
 <br>
 👯 I’m looking to collaborate on projects involving machine learning and software development
 <br>
