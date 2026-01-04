@@ -22,7 +22,7 @@
 ## 🌐 Socials:
 - 📩 Email: ciepiela.maciej@outlook.com
 - 💬 LinkedIn: [Maciej Ciepiela](https://www.linkedin.com/in/maciej-ciepiela/)
-- 🏆 Codeforces: [mckk12](https://codeforces.com/profile/mckk12)
+- 🏆 Codeforces: [mck12](https://codeforces.com/profile/mck12)
 
 ---
 ## 💻 Tech Stack
