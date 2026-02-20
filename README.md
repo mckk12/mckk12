@@ -1,49 +1,26 @@
 # 👋 Hi there, I'm Maciej
 
-🎓 I'm a **4th-year Computer Science student at the University of Wrocław**
+🎓 I'm a Computer Science graduate – University of Wrocław
  
-💻 I'm experienced in **software development, web technologies, and building practical applications**
+💻 I enjoy building real products — from backend architecture to polished UI — with clean, scalable code
  
-🧩 I'm skilled with **algorithm design, problem-solving, and competitive programming**  
-
-🧠 I'm passionate about **Artificial Intelligence, Machine Learning, and Data Science**
-
+🧩 I'm skilled with algorithm design, problem-solving, and competitive programming
 
 ---
 
 ## 🛠️ What I'm Working On
-🎮 Learning **Unity** and **C#** (game development – side projects)
 
-☕ Improving my **Java** and **backend engineering** skills
+🔭 Developing a **Cinema Meeting Planner** (Vite + React + TypeScript)
 
-🔭 Developing a platform to learn graph theory through games as part of my Engineering Thesis
-  
+🎮 Learning **Unity** and **C#** (game development – side projects)  
+
 ---
 ## 🌐 Socials:
 - 📩 Email: ciepiela.maciej@outlook.com
 - 💬 LinkedIn: [Maciej Ciepiela](https://www.linkedin.com/in/maciej-ciepiela/)
-- 🏆 Codeforces: [mck12](https://codeforces.com/profile/mck12)
 
 ---
 ## 💻 Tech Stack
-
-### Machine Learning & Data
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FF7B00?style=for-the-badge&logo=wandb&logoColor=white)
-
-**Skills**
-- ML model development & experimentation  
-- Data visualization & analysis
-- Python scripting & automation
-
----
 
 ### 🌐 Web / Full-Stack Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -61,6 +38,7 @@
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white)
 
 #### 🔧 Backend Development
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -69,7 +47,7 @@
 **Skills**
 - Chrome Extensions development (Manifest V3)
 - Translating wireframes into polished UI
-- Full-stack development with Node.js + React/EJS
+- Full-stack development
 - REST API design (FastAPI, Flask, Django)
 - Backend engineering & modular development
 
@@ -87,7 +65,22 @@
 - API data extraction (requests, BeautifulSoup)
 
 ---
+### Machine Learning & Data
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FF7B00?style=for-the-badge&logo=wandb&logoColor=white)
 
+**Skills**
+- ML model development & experimentation  
+- Data visualization & analysis
+- Python scripting & automation
+
+---
 ### Languages & Tools
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![OCaml](https://img.shields.io/badge/OCaml-E98407?style=for-the-badge&logo=ocaml&logoColor=white)
@@ -113,11 +106,6 @@
 - Linux/Unix workflows  
 - Version control with Git/GitHub/GitLab  
 - Testing & debugging practices 
----
-
-## 📊 Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mckk12&theme=dark&hide_border=false&layout=compact)
-
 ---
 
 ## ✍️ Quote of the Day
